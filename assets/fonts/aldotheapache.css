@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AldotheApacheRegular';
+    src: url('aldotheapache.eot');
+    src: url('aldotheapache.eot') format('embedded-opentype'),
+         url('aldotheapache.woff') format('woff'),
+         url('aldotheapache.ttf') format('truetype'),
+         url('aldotheapache.svg#AldotheApacheRegular') format('svg');
+}
+body {
+	font-family: 'AldotheApacheRegular';
+}
